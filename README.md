@@ -15,7 +15,7 @@ pip3 install -r requirements.txt
 
 ```python
 
-python3 download_yt_video.py
+python3 video.py
 
 ```
 
@@ -27,7 +27,7 @@ python3 download_yt_video.py
 
 ```python
 
-python3 download_yt_channel's_video.py
+python3 videos.py
 
 ```
 
@@ -39,7 +39,7 @@ python3 download_yt_channel's_video.py
 
 ```python
 
-python3 download_thumbnail.py
+python3 thumbnails.py
 
 ```
 
