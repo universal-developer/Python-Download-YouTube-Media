@@ -47,4 +47,4 @@ python3 thumbnails.py
 
 <hr>
 
-<h2>I hope, you will rate my repo</h2>
+
