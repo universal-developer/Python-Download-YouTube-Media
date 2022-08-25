@@ -23,7 +23,7 @@ python3 video.py
 
 <p>Then you will see new folder in your directory. There will be your downloaded video in the most highest resolution as it's possible</p>
 
-<br>
+<hr>
 
 <h3>To Downlaod All Videos From YouTube Channel</h3>
 
