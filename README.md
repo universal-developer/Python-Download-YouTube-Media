@@ -1,12 +1,14 @@
 <h2>Code That Allows To Download Content From YouTube</h2>
 
-<h2>Usage: </h2>
+<h2>Default Usage: </h2>
 
 ```bash
 
 git clone https://github.com/universal-developer/Download-YouTube-Media
 
 pip3 install -r requirements.txt
+
+python3 app.py
 
 ```
 <hr>
